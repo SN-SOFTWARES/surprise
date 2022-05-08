@@ -1,0 +1,14 @@
+.click{
+    text-align: center;
+    padding-left: 43%;
+    font-size: 50px;
+}
+.design{
+    margin: 15px;
+    padding: 15px;
+    border-radius: 31px;
+    background: url(Picture/love.jpg);
+    background-size: 165%;
+    color: black;
+    font-size: 25px;
+}
