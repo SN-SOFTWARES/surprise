@@ -7,7 +7,7 @@ body{
     background-color: #fff;
     background-image: url(Picture/love.jpg);
     background-attachment: scroll;
-}
+background-repeat: no-repeat;background-size: 100%;}
 .box{
     background: #e91e63;
     padding: 60px 60px;
